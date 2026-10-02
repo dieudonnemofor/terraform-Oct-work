@@ -1,0 +1,6 @@
+ami_id = "ami-0b6d9d3d33ba97d99"
+instance_type = "t3.micro"
+bucket_name = "my-october-devbucket202"
+bucket12_name = "my-second-devbucket202"
+instance_type2 = "t3.micro"
+instance1_type = "t3.micro"
